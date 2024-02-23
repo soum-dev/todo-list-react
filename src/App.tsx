@@ -1,10 +1,9 @@
-import SignIn from './components/SignIn'
 import './index.css'
 function App() {
 
   return (
     <>
-      <SignIn/>
+      <h1>Hello World</h1>
     </>
   )
 }
