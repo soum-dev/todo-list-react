@@ -26,7 +26,7 @@ This project is a basic todo list application built with React. It allows users 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-list-react.git
+   git clone https://github.com/soum-dev/todo-list-react.git
    ```
 
 2. Navigate to the project directory:
